@@ -1,2 +1,5 @@
 *.jnlp
 *.txt
+a.out
+vimsession
+test.cpp
